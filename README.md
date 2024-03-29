@@ -1,4 +1,5 @@
-# PTTK_HTTT
+Báo cáo nhóm 01 CT296 Phân tích thiết kế Hệ thống tinh  - HK2 2023 - 2024
+Giảng viên hướng dẫn: Phan Tấn Tài
 Đề tài: Hệ thống quản lý kinh doanh đồng hồ
 
 Sinh viên thực hiện:
