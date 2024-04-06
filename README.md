@@ -1,4 +1,4 @@
-Báo cáo nhóm 01 CT296 Phân tích thiết kế Hệ thống tinh  - HK2 2023 - 2024
+Báo cáo nhóm 01 CT296 Phân tích thiết kế Hệ thống thông tin  - HK2 2023 - 2024
 
 Giảng viên hướng dẫn: Phan Tấn Tài
 
